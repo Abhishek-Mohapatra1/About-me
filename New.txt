@@ -1,5 +1,5 @@
 -eat
--work
+-Read
 -fight
 -study
 -sleep
