@@ -1,5 +1,6 @@
 -eat
 -Read
 -fight
+-study
 -sleep
 -repeat
