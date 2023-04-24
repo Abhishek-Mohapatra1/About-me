@@ -4,3 +4,4 @@
 -study
 -sleep
 -repeat
+-yes
