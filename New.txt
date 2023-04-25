@@ -6,3 +6,8 @@
 -repeat
 -ok
 -yes
+-new para 
+x=3
+y=2
+z=x+y
+print(z)
