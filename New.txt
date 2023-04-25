@@ -6,6 +6,3 @@
 -repeat
 -ok
 -yes
-x=45
-y=65
-z=x+y
