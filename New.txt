@@ -6,3 +6,9 @@
 -repeat
 -ok
 -yes
+-if x>y:
+    x is greater
+-else:
+    y is greater & z is smaller
+
+
