@@ -1,4 +1,18 @@
+
 a + b =c
 # this formula is right
-done
+
+# done
 if c >a  then c is greater 
+
+a=3
+b=4
+c=7
+d=10
+if a>b:
+    print(f'{a} is greater')
+else:
+    print(f'{b} is greater')
+   
+## done
+
