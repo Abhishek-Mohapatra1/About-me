@@ -1,1 +1,6 @@
-a + b =c
+a=3
+b=4
+if a>b:
+    print(f'{a} is greater')
+else:
+    print(f'{b} is greater')
