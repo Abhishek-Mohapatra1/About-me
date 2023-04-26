@@ -9,4 +9,4 @@
 -if x>y:
     x is greater
 -else:
-    y is greater
+    y is greater & z is smaller
