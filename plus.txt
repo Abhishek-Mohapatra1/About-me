@@ -1,3 +1,4 @@
 a + b =c
 # this formula is right
 done
+if c >a  then c is greater 
