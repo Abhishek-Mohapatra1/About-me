@@ -1,3 +1,10 @@
+
+a + b =c
+# this formula is right
+
+# done
+if c >a  then c is greater 
+
 a=3
 b=4
 c=7
@@ -8,3 +15,4 @@ else:
     print(f'{b} is greater')
    
 ## done
+
